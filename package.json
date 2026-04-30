@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://xix01dev.github.io/muaythai-speed",
+  "homepage": "https://xix01dev.github.io/fightinglol", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
